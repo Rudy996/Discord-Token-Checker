@@ -1,0 +1,19 @@
+{
+
+    "capture":true,
+
+    "id": true,
+    "username": true,
+    "discrim": true,
+    "bio": true,
+    "location_lang": true,
+    "mfa": true,
+    "email": true,
+    "verified": true,
+    "phone": true,
+    "nitro": true,
+    "avatar": true,
+
+    "delimiter": ":"
+
+}
